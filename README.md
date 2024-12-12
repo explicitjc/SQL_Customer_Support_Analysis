@@ -3,11 +3,6 @@
 ## Description
 This project involves analyzing customer support data for Tech Solutions Inc., a leading technology company. The analysis aims to identify factors contributing to customer dissatisfaction and provide actionable insights. The tasks are structured to highlight SQL skills and techniques, with a focus on data cleaning, aggregation, and key performance indicators (KPIs).
 
-The repository contains the following:
-- **SQL Queries** for each task (code excluded to preserve exam integrity).
-- **Screenshots** of query results stored in the `/images` directory.
-- **Insights and Recommendations** derived from the analysis.
-
 ---
 
 ## Objectives
@@ -15,7 +10,7 @@ The analysis addresses the following business questions:
 1. How accurate and consistent is the support ticket data?
 2. What are the response time ranges for different support categories?
 3. What are the ratings provided by customers reporting bugs or installation problems?
-
+   
 ---
 
 ## Tasks and Techniques
